@@ -1,3 +1,11 @@
+# FOR THIS CODE TO WORK YOU NEED JSON-SERVER INSTALLED LOCALLY
+```sh
+yarn start 
+```
+```sh
+yarn server
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
